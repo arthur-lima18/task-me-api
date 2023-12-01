@@ -11,7 +11,7 @@ Para instalar e executar o projeto, garanta que o .env está configurado e siga 
 
 Para a execução do projeto: 
 ```bash
-  cd task-me
+  cd task-me-api
   npm install 
   npm run dev
 ```
