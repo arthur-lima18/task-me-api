@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "sequelize-cli": "^6.6.2"
+  },
+  "dependencies": {
+    "sequelize": "^6.35.1"
+  },
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest"
+  },
+  "name": "task-me-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-lima18/task-me-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur-lima18/task-me-api/issues"
+  },
+  "homepage": "https://github.com/arthur-lima18/task-me-api#readme",
+  "description": ""
+}
