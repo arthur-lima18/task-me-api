@@ -23,7 +23,7 @@ Para a execução do projeto:
 
 ## Tecnologias Utilizadas
 
-React.JS, Vite.JS, Node.JS, Jest, MySQL
+React.JS, Vite.JS, Node.JS, Sequelize, Jest, MySQL
 
 
 ## Referências
@@ -32,4 +32,5 @@ React.JS, Vite.JS, Node.JS, Jest, MySQL
  - [Node.JS](https://nodejs.org/en/docs)
  - [Vite.JS](https://vitejs.dev)
  - [Jest](https://jestjs.io/pt-BR/)
+ - [Sequelize](https://sequelize.org)
  - [MySQL](https://www.mysql.com)
